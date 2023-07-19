@@ -9,7 +9,7 @@ You’ve been able to find tables of data online dealing with forestation as wel
 # Getting Started
 
  To get started with the Deforestation Exploration project, follow these steps:
- https://learn.udacity.com/paid-courses/cd12500/lessons/bf31b778-29ab-4860-adec-153cc6756d45/concepts/3c8a2dab-a727-47be-a27b-30bf6551c272
+
 1. Visit the project page on Udacity at Deforestation Exploration.
 1. Enroll in the course if necessary and access the project materials provided by Udacity.
 1. Read through the project instructions, requirements, and guidelines to familiarize yourself with the objectives and scope of the project.
